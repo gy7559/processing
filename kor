@@ -19,3 +19,4 @@ void draw(){
   i= i+dir*sp;
   if(keyPressed) sp = key-'0';
 }
+...
